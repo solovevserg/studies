@@ -18,6 +18,7 @@ This repo contains list of educational events conducted by Sergei Solovev. It in
 ## Calendar
 
 ### Блок лекций по веб-технологиям для СГН3 МГТУ
+* 2022-04-04 [Введение в CSS / CSS Basics](https://docs.google.com/presentation/d/1-0oOxUwx2UfKzXyEsTM_nsB_Z2rFTz2_/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
 * 2022-03-28 [Введение в HTML / HTML Basics](https://docs.google.com/document/d/1kpa-oeYR3JTNWmVCjy9YqJL8jy1m07Mq9xaxlaYnx7g/edit#)
 * 2022-03-07 [Web как источник данных / The Web as a Data Source](https://docs.google.com/document/d/1JjrVbE8U-wpDXZ1tNkUnz0jQoUw1WIR9/edit#heading=h.bbo3u27ih8ow)
 
