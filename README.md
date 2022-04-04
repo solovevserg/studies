@@ -29,11 +29,10 @@ This repo contains list of educational events conducted by Sergei Solovev. It in
 * 2021-11-09 [Основы HTML и CSS / HTML and CSS Basics](https://drive.google.com/drive/folders/11BvfqLEjxO2dScqogWkfl9sxAMzBdIAu)
 
 ### Веб-дизайн и разработка для HSE Kids
-2021-10-03 [Введение в веб-дизайн. Структура курса / Web Design Basics. The Course Structure](https://docs.google.com/presentation/d/1KH76m4U-_aOr5vYu3kG6D0Vjztejs7Pa799zJYGzOOI/edit?usp=drive_web&ouid=116011312002875376963)
-2022-10-XX [Введение в Figma / Figma Basic Features]
+* 2021-10-03 [Введение в веб-дизайн. Структура курса / Web Design Basics. The Course Structure](https://docs.google.com/presentation/d/1KH76m4U-_aOr5vYu3kG6D0Vjztejs7Pa799zJYGzOOI/edit?usp=drive_web&ouid=116011312002875376963)
+<!-- * 2022-10-XX [Введение в Figma / Figma Basic Features]() -->
 
 ### Qoollo Summer 2021
-* 
 
 ### Блок лекций по веб-технологиям на СГН3 МГТУ
 * 2021-02-03 [Вебинар по RxJS для стажёров Qoollo / RxJS Webianr for Qollo interns](https://github.com/solovevserg/rxjs-qoollo-webinar)
@@ -41,10 +40,16 @@ This repo contains list of educational events conducted by Sergei Solovev. It in
 ### Блок лекций по веб-технологиям на ИУ7 МГТУ
 
 ### ФЦДО Data Session для педагогов
+* 2020-12-14 [Структура сессии / Session Structure](https://docs.google.com/presentation/d/1Mk165kinUruxd7ryAS6vpXdy1io9y55d/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
+* 2020-12-15 [Источники данных. Веб как источник данных / The Web as a Data Source](https://docs.google.com/presentation/d/1uaAr69kG75auBuu4AGOSfzAXoyA9E_BT/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
+* 2020-12-15 [Хранилища данных. Практика работы с NoSQL СУБД / Data Storages. Workshop on NoSQL DBMS](https://docs.google.com/presentation/d/1JSlfMve77bXJFa70lKFgQafW2pHTTVfw/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
+* 2020-12-17 [Анализ графовых моделей / Graph Models Analysis](https://docs.google.com/presentation/d/139C6ZmC16awZ7MpgknlbjJ5vGB5kiSvS/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
+* 2020-12-17 [Визуализация данных. Практика работы с ObservableHQ / Data Visualization. Workshop on ObservableHQ Platform](https://docs.google.com/presentation/d/11qZxVmrwz6Vw8qO2-xIipiQYbxnh8Dlv/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
 
 ### Qoollo Summer 2020
 * 2020-07-09 [Введенеи во фронтенд / Fronted Development Basics](https://www.youtube.com/watch?v=PFzdxYOyOFY&t=9338s&ab_channel=Qoollo)
 * 2020-07-24 [Приёмы адаптивной вёрстки / Responsive Markup Tricks](https://www.youtube.com/watch?v=vToE3pjlG3E&t=273s&ab_channel=Qoollo) 
+* ...
 
 ### Qoollo Naked Fridays and Taco Tuesdays
 * 2020-03-06 [Что может TypeScript / Why TypeScript Is Cool](https://github.com/solovevserg/naked-friday-ts)
@@ -52,7 +57,9 @@ This repo contains list of educational events conducted by Sergei Solovev. It in
 * 2019-10-22 [Введение в RxJS / RxJS Basics](https://github.com/solovevserg/taco-tuesday-rxjs)
 
 ### Crash Data Course для СГН3 МГТУ
-* 2019-09-19 [Промо-презентация курса / Promo Presentation](* [](https://docs.google.com/presentation/d/1Jy-ke2IpSCLwpMtCA1H2A1Z-8HtSrf8L/edit#slide=id.p1)
+* 2019-09-19 [Промо-презентация курса / Promo Presentation](https://docs.google.com/presentation/d/1Jy-ke2IpSCLwpMtCA1H2A1Z-8HtSrf8L/edit#slide=id.p1)
+* ...
 
 ### Блок лекций по веб-дизайну и вёрстке для ИСОТ МГТУ
 2019-06-11 [Создание статического сайта на HTML / How to Make a Static HTML Web Site](https://github.com/solovevserg/bicycle-web-site)
+* ...
