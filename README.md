@@ -58,7 +58,7 @@ This repo contains list of educational events conducted by Sergei Solovev. It in
 <!-- Добавить ссылки на материалы курса -->
 
 ### Лекция по истории для ИБМ МГТУ
-* 2022-06- [СССР во второй половине XX века / USSR in the second half of the 20th century](https://docs.google.com/presentation/d/1QzppXF1EVTbkI3zhQ1wFH8c8oYtY90JE/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
+* 2022-12-18 [СССР во второй половине XX века / USSR in the second half of the 20th century](https://docs.google.com/presentation/d/1QzppXF1EVTbkI3zhQ1wFH8c8oYtY90JE/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
 
 <!-- ## Materials
 
