@@ -1,3 +1,6 @@
+```
+⚠ DOcument is work-in-progress
+```
 # Образовательные мероприятия от [Сергея Соловьева](https://sergsol.com/ru)
 Studies by [Sergei Solovev](https://sergsol.com/)
 
@@ -46,6 +49,7 @@ This repo contains list of educational events conducted by Sergei Solovev. It in
 <hr>
 
 * 2019-10-22 [Qoollo.Edi] [Введение в RxJS / RxJS Basics](https://github.com/solovevserg/taco-tuesday-rxjs)
+* 2019-10-xx [ИУ7 МГТУ] !!!
 * ...
 * 2019-09-19 [Crash Data Course] [Промо-презентация курса / Promo Presentation](https://docs.google.com/presentation/d/1Jy-ke2IpSCLwpMtCA1H2A1Z-8HtSrf8L/edit#slide=id.p1)
 <!-- Дополнить ссылками на материалы курса -->
