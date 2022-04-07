@@ -1,7 +1,8 @@
 ```
 ⚠ The document is work-in-progress
 ```
-# Educational Events by [Sergei Solovev](https://sergsol.com/ru)
+# Educational Events by [Sergei Solovev](https://sergsol.com)
+[Русская версия](./README.md) |  English version [WIP]
 
 This repo contains list of educational events conducted by Sergei Solovev. It includes links to videos, articles and code samples ordered by topic and date.
 
