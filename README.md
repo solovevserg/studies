@@ -24,7 +24,7 @@
 
 * **Qoollo.Summer** (2020, 2021) — Проводил лекции и курировал проектные команды в рамках уникального формата летней практики студентов [Qoollo.Summer](https://drive.google.com/file/d/1D1EaaGW_GrD0onqaNzmj_O7Zpk7l3bfv/view?usp=sharing).
 
-* **ИБМ МГТУ** (2019) — Как приглашённый спикер выступал с лекцией о СССР на факультете ИБМ МГТУ. Первый опыт преподавания на большую аудиторию (около 100 человек). _Совместно с  [Евгением Крякиным](https://vk.com/g_________g_k)_.
+* **ИБМ МГТУ** (2018) — Как приглашённый спикер выступал с лекцией о СССР на факультете ИБМ МГТУ. Первый опыт преподавания на большую аудиторию (около 100 человек). _Совместно с  [Евгением Крякиным](https://vk.com/g_________g_k)_.
 
 ## Календарь
 
@@ -42,7 +42,7 @@
 <!-- Дополнить списком тем -->
 * 2021-12-06 [ИУ7 МГТУ] ⭐ [Введение в Angular](https://drive.google.com/drive/folders/19rJHHXjN6v1haKzlevf6ADpf6iiohhmP)
 * 2021-11-29 [ИУ7 МГТУ] ⭐ [Интенсив по JS от Сергея Соловьева](https://observablehq.com/@solovevserg/js-course?collection=@solovevserg/js)
-* 2021-11-16 [ИУ7 МГТУ] [Практикум по адамптивной верстке](https://drive.google.com/drive/folders/12C1k9CmCu4kK4Ww_-wH-cwOnQ_K7HALL)
+* 2021-11-16 [ИУ7 МГТУ] [Практикум по адаптивной верстке](https://drive.google.com/drive/folders/12C1k9CmCu4kK4Ww_-wH-cwOnQ_K7HALL)
 * 2021-11-09 [ИУ7 МГТУ] [Основы HTML и CSS](https://drive.google.com/drive/folders/11BvfqLEjxO2dScqogWkfl9sxAMzBdIAu)
 
 <!-- Дополнить списком тем -->
@@ -72,7 +72,7 @@
 
 <!-- Дополнить списком тем -->
 * 2020-07-24 [Qoollo.Summer] [Приёмы адаптивной вёрстки](https://www.youtube.com/watch?v=vToE3pjlG3E&t=273s&ab_channel=Qoollo) 
-* 2020-07-09 [Qoollo.Summer] [Введенеи во фронтенд](https://www.youtube.com/watch?v=PFzdxYOyOFY&t=9338s&ab_channel=Qoollo)
+* 2020-07-09 [Qoollo.Summer] [введение во фронтенд](https://www.youtube.com/watch?v=PFzdxYOyOFY&t=9338s&ab_channel=Qoollo)
 
 <!-- Дополнить списком тем -->
 * 2020-03-06 [Qoollo.Edu] [Что может TypeScript](https://github.com/solovevserg/naked-friday-ts)
