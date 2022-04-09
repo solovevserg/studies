@@ -49,11 +49,20 @@
 * 2021-10-12 [Qoollo.Edu] [Научная организация труда](https://docs.google.com/presentation/d/10D5fCBhg_A7iNj1h4SUWYptRehsXL4CZ/edit#slide=id.p1)
 
 <!-- Дополнить списком тем -->
+* 2021-10-10 [HSE Kids] ...
 * 2021-10-03 [HSE Kids] [Введение в веб-дизайн. Структура курса](https://docs.google.com/presentation/d/1KH76m4U-_aOr5vYu3kG6D0Vjztejs7Pa799zJYGzOOI/edit?usp=drive_web&ouid=116011312002875376963)
 * 2021-09-12 [HSE Kids] [Промо-презентация курса](https://docs.google.com/presentation/d/1jXTodfwKcPgWS48y2ANwmt-awpBYBUnW/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
 
 <!-- Дополнить ссылкой -->
 * 2021-07-06 [Qoollo.Summer] Введение во фронтенд
+
+<!-- Дополнить ссылкой -->
+* 2021-05-26 [СГН3 МГТУ] Хостирование статических сайтов
+* 2021-05-18 [СГН3 МГТУ] [Введение в SPA. Vue](https://github.com/solovevserg/2021-05-18-spa-vue-lecture)
+* 2021-05-17 [СГН3 МГТУ] [Воркшоп по использованию fetch для работы с HTTP API](https://github.com/solovevserg/2021-05-18-spa-vue-lecture)
+* 2021-04-26 [СГН3 МГТУ] [Семинар по адаптивной вёрстке](https://github.com/solovevserg/2021-04-20-adaptive-lift-landing)
+* 2021-04-20 [СГН3 МГТУ] [Семинар по адаптивной вёрстке](https://github.com/solovevserg/2021-04-20-adaptive-lift-landing)
+* 2021-02-07 [СГН3 МГТУ] ...
 
 <!-- Дополнить ссылкой -->
 * 2021-02-03 [Qoollo.Edu] [Вебинар по RxJS для стажёров Qoollo](https://github.com/solovevserg/rxjs-qoollo-webinar)
