@@ -33,6 +33,7 @@
 ### 2022
 
 <!-- Дополнить списком тем -->
+* 2022-04-25 [СГН3 МГТУ] [Основы JS и практика визуализации данных (Часть 1)](https://github.com/solovevserg/2022-04-25-js-basic-chart)
 * 2022-04-18 [СГН3 МГТУ] [Блочное мышление и практика HTML/CSS вёрстки](https://github.com/solovevserg/2022-04-18-ssh3-markup-techniques)
 * 2022-04-11 [СГН3 МГТУ] [Основные свойства в CSS](https://github.com/solovevserg/2022-04-11-ssh3-lecture-css-properties)
 * 2022-04-04 [СГН3 МГТУ] ⭐ [Введение в CSS](https://docs.google.com/presentation/d/1-0oOxUwx2UfKzXyEsTM_nsB_Z2rFTz2_/edit?usp=sharing&ouid=116011312002875376963&rtpof=true&sd=true)
