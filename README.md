@@ -33,6 +33,7 @@
 ### 2022
 
 <!-- Дополнить списком тем -->
+* 2022-05-23 [СГН3 МГТУ] [JS-фреймворки. Пример приложения на Vue](https://github.com/solovevserg/2022-05-23-vue-users-list)
 * 2022-05-16 [СГН3 МГТУ] [Практикум по созданию простого чата Node.js + JS/HTML/CSS](https://github.com/solovevserg/2022-05-16-js-basic-chat)
 * 2022-04-25 [СГН3 МГТУ] [Основы JS. Практика визуализации данных в веб](https://github.com/solovevserg/2022-04-25-js-basic-chart)
 * 2022-04-18 [СГН3 МГТУ] [Блочное мышление и практика HTML/CSS вёрстки](https://github.com/solovevserg/2022-04-18-ssh3-markup-techniques)
